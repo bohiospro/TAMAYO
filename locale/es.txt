@@ -1,0 +1,8 @@
+#: locale=es
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = TOUR VIRTUl - MUESTRA TAMAYO
